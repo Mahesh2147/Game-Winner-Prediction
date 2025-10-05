@@ -1,7 +1,6 @@
 # Game-Winner-Prediction
 
-- **Dataset Link** : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1012-Game
-WinnerPred.zip
+- **Dataset Link** : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1012-GameWinnerPred.zip
 
 
 ## 🎯 Project Objective
