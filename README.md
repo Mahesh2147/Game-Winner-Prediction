@@ -19,7 +19,7 @@
 * Feature Scaling:
           Applied StandardScaler to normalize numerical features.
 
-##📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 	
 * Univariate & Bivariate Analysis:
     * Analyzed distributions and relationships between key features.
